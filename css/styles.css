@@ -37,11 +37,6 @@
                                                        /* СТИЛЬ ЛОГОТИПА У ШАПЦІ САЙТУ */
                                                        
                                                        .lg {
-                                                           position: absolute;
-                                                           width: 145px;
-                                                           height: 31px;
-                                                           left: 215px;
-                                                           top: 24px;
                                                            font-family: var(--secondary-font);
                                                            font-weight: 700;
                                                            font-size: 26px;
